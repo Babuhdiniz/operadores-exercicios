@@ -30,7 +30,7 @@ Vamos continuar? Suponhamos que o exercício da aula passada tenha como resultad
 
 Levando em consideração os dados abaixo, calcule o salário de Fulano da Silva (itens 1 a 5):
 
-a) Auxílio creche por filho:  R$45,50
+a) Auxílio creche por filho:  R$45,50 
 
 b) Comissão de 10% sobre o total de vendas mensal
 
